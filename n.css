@@ -1,0 +1,30 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+.Header1{
+    background-color: tomato;
+    margin: 150px;
+    padding: 150px;
+    text-decoration: none;
+    
+}
+.Header2{
+    background-color: white;
+    margin-left:30px;
+    display:flex;
+    flex-flow:column;
+    margin: 10px;
+    padding: 10px;
+    text-decoration: none;
+    width: 30%;
+}
+.Header3{
+    background-color: white;
+    flex: center;
+    margin: 10px;
+    padding: 10px;
+    text-decoration: none;
+    width: 30%;
+}

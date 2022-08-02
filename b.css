@@ -1,0 +1,12 @@
+table, tr, td{
+    border-collapse:separate;
+    border: 1px solid black;
+}
+td{
+padding:12px;
+margin:0px;
+}
+.lampa{
+    background-color: rgb(0, 0, 0);
+    
+}
